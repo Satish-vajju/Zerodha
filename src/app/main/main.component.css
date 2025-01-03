@@ -1,0 +1,91 @@
+.firstsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5rem;
+    color: #424242;
+}
+#button{
+    background-color: #387ed1;
+    padding: 15px 2rem 15px 2rem;
+    color: white;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+#invest{
+    margin-bottom: 0;
+}
+#para{
+    margin-top: 10px;
+    margin-bottom: 30px;
+  
+    font-weight: 400;
+}
+#button:hover{
+    background-color: #424242;
+}
+.secondsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 60px;
+    color: #424242;
+padding-left: 30px;
+}
+
+
+#news{
+   display: block;
+   margin: auto;
+   width: 600x;
+}
+
+.thirdsection{
+    display: flex;
+    flex-direction: column;
+    padding: 0% 60px;
+    color: #424242;
+    justify-content: space-evenly;
+}
+
+.pricing{
+    display: flex;
+}
+
+#price{
+    display: flex;
+    align-items: center;
+   
+    
+}
+
+#link{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.fourthsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #424242;
+}
+
+#varsity{
+    width: 40%;
+}
+a{
+    text-decoration: none;
+}
+
+
+.fifthsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #424242;
+}

@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+   border-bottom: 1px solid #bbb;
+   color: #424242;
+}
+
+ul{
+    display: flex;
+    column-gap: 50px;
+}
+li{
+    cursor: pointer;
+    list-style: none;
+    column-gap: 50px;
+    font-size: 20px;
+}
